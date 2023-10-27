@@ -1,5 +1,5 @@
 # crontab-run-on-every-45-mins
-**Run crontab job in every 45 mins**
+Run crontab job in every 45 mins
 
 Open the crontab for the user, 
 Lets assume we are just adding server time in the fix file to test if its log in every 45 mins or not
@@ -13,4 +13,4 @@ Crontab content
 ```
 
 Output after the cron run on schedule
-![](https://hackmd.io/_uploads/SkpKbDYMT.png)
+![Image](https://hackmd.io/_uploads/SkpKbDYMT.png)
