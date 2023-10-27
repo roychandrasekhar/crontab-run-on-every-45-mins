@@ -13,4 +13,4 @@ Crontab content
 ```
 
 Output after the cron run on schedule
-![Image](https://hackmd.io/_uploads/SkpKbDYMT.png)
+![](https://i.imgur.com/r0TMC9y.png)
