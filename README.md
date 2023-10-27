@@ -12,5 +12,5 @@ Crontab content
 15 */3 * * * date >> /var/www/projects/academylive/testtime.txt
 ```
 
-Output after the cron run on schedule
+Output after the cron run on schedule</br>
 ![](https://i.imgur.com/r0TMC9y.png)
